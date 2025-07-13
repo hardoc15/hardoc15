@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harrison</h1>
 <h3 align="center">A passionate student interested in data science, quantitative finance, and deep learning</h3>
 
-- 🔭 I’m currently working on **the backend development of heart failure detection hardware at Bai Lab @UNC**
+- 🔭 I’m currently working on **the backend development of a heart failure detection hardware at Bai Lab @UNC**
 
 - 🌱 I’m currently learning **Image Segmentation, PyTorch, Algorithmic Trading Strategies, TF, Flask**
 
