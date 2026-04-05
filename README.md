@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/hardoc%40unc.edu-0a0a0f?style=flat&logo=gmail&logoColor=7B6CFF)](mailto:hardoc@unc.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=7B6CFF)](https://linkedin.com/in/harrisoncohen)
 [![arXiv](https://img.shields.io/badge/arXiv-0a0a0f?style=flat&logo=arxiv&logoColor=ff6b6b)](https://arxiv.org)
-[![PaperTrail](https://img.shields.io/badge/PaperTrail-0a0a0f?style=flat&logo=rocket&logoColor=4fc8a0)](https://papertrail.app)
+[![PaperTrail]([https://img.shields.io/badge/PaperTrail-0a0a0f?style=flat&logo=rocket&logoColor=4fc8a0)](https://papertrail.app](https://paper-trail-s8a5t0pwf-harrisondcohen-7197s-projects.vercel.app/))
 
 </div>
 
