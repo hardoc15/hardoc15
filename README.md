@@ -13,8 +13,7 @@
 
 [![Email](https://img.shields.io/badge/hardoc%40unc.edu-0a0a0f?style=flat&logo=gmail&logoColor=7B6CFF)](mailto:hardoc@unc.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=7B6CFF)](https://linkedin.com/in/harrisoncohen)
-[![arXiv](https://img.shields.io/badge/arXiv-0a0a0f?style=flat&logo=arxiv&logoColor=ff6b6b)](https://arxiv.org)
-[![PaperTrail]([https://img.shields.io/badge/PaperTrail-0a0a0f?style=flat&logo=rocket&logoColor=4fc8a0)](https://papertrail.app](https://paper-trail-s8a5t0pwf-harrisondcohen-7197s-projects.vercel.app/))
+
 
 </div>
 
@@ -85,21 +84,12 @@ My current research focuses on symbolic regression applied to Alzheimer's tau pr
 
 | Period | Role |
 |--------|------|
-| 2025 – present | 🔬 First-author researcher · ACM Lab · UNC School of Medicine |
-| 2024 – present | 🫀 Research Assistant · Bai Lab · UNC Chapel Hill |
-| 2024 – present | 🚀 Co-founder · [PaperTrail](https://papertrail.app) — undergraduate research recruitment platform |
+| 2026 – present | 🔬 First-author researcher · ACM Lab · UNC School of Medicine |
+| Summer – 2025 | 🫀 Research Assistant · Bai Lab · UNC Chapel Hill |
+| 2026 – present | 🚀 Co-founder · [PaperTrail](https://papertrail.app) — undergraduate research recruitment platform |
 | Summer 2026 | 🧬 Research Intern · MD Anderson Cancer Center · Dr. Tao Wang |
 | Summer 2026 | 💡 Research Collaborator · UC Irvine · Prof. Bernard Choi |
 | Dec 2027 | 🎓 B.S. CS & Data Science · UNC Chapel Hill *(early graduation)* |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hardoc15&show_icons=true&theme=transparent&hide_border=true&title_color=7B6CFF&icon_color=4fc8a0&text_color=8888a0&bg_color=0a0a0f" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardoc15&layout=compact&theme=transparent&hide_border=true&title_color=7B6CFF&text_color=8888a0&bg_color=0a0a0f&langs_count=6" />
-</div>
 
 ---
 
