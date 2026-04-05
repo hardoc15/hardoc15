@@ -12,7 +12,7 @@
 **B.S. Computer Science & Data Science · UNC Chapel Hill · 2027**
 
 [![Email](https://img.shields.io/badge/hardoc%40unc.edu-0a0a0f?style=flat&logo=gmail&logoColor=7B6CFF)](mailto:hardoc@unc.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=7B6CFF)]([[https://linkedin.com/in/harrisoncohen](https://www.linkedin.com/in/harrison-cohen-a49350332/)](https://www.linkedin.com/in/harrison-cohen-a49350332/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=7B6CFF)](https://www.linkedin.com/in/harrison-cohen-a49350332/?skipRedirect=true)
 
 
 </div>
