@@ -81,7 +81,6 @@ My current research focuses on symbolic regression applied to Alzheimer's tau pr
 | Summer – 2025 | 🫀 Research Assistant · Bai Lab · UNC Chapel Hill |
 | 2026 – present | 🚀 Co-founder · [PaperTrail](https://papertrail.app) — undergraduate research recruitment platform |
 | Summer 2026 | 🧬 Research Intern · MD Anderson Cancer Center · Dr. Tao Wang |
-| Summer 2026 | 💡 Research Collaborator · UC Irvine · Prof. Bernard Choi |
 | Dec 2027 | 🎓 B.S. CS & Data Science · UNC Chapel Hill *(early graduation)* |
 
 ---
