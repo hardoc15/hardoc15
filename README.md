@@ -52,13 +52,6 @@ My current research focuses on symbolic regression applied to Alzheimer's tau pr
 
 <br>
 
-### 💡 Research Collaborator · UC Irvine *(Summer 2026)*
-> **Choi Lab · PI: Prof. Bernard Choi**
->
-> Applying machine learning to optical blood flow imaging. Target publication Q3 2026.
-
----
-
 ## Technical Stack
 
 **ML & Research**
