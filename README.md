@@ -38,14 +38,14 @@ My current research focuses on symbolic regression applied to Alzheimer's tau pr
 
 <br>
 
-### 🫀 Undergraduate Research Assistant · Cardiac Ultrasound Segmentation
+### Undergraduate Research Assistant · Cardiac Ultrasound Segmentation
 > **Bai Lab · UNC Chapel Hill**
 >
 > Deep learning segmentation pipeline using U-Net and DenseNet121 for echocardiography analysis.
 
 <br>
 
-### 🧬 Research Intern · MD Anderson Cancer Center *(Summer 2026)*
+### Research Intern · MD Anderson Cancer Center *(Summer 2026)*
 > **Dept. of Bioinformatics & Computational Biology · Supervisor: Dr. Tao Wang**
 >
 > Incoming research intern at the #1 ranked cancer center in the US. Contributing to frontier computational oncology research.
