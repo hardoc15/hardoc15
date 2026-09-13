@@ -31,7 +31,7 @@ My current research focuses on symbolic regression applied to Alzheimer's tau pr
 
 ## Research
 
-### 🔬 First-Author · Symbolic Regression for Tau Propagation in Alzheimer's Disease
+### Symbolic Regression for Tau Propagation in Alzheimer's Disease
 > **ACM Lab · UNC School of Medicine · PI: Prof. Guorong Wu**
 >
 > Mechanistic-neural hybrid models investigating why local symbolic improvements fail to generalize in coupled systems. Ablation study across library size, component family, and frequency axes on a two-GPU server. Targeting MICCAI / NeurIPS 2026.
